@@ -1,0 +1,6 @@
+The following files are too large to upload to GitHub and can be provided upon request to lbintu@stanford.edu.
+
+- List of all oligos ordered from Twist: 20201012_CL_Twist_libraries_compiled_FINAL+filtered.csv
+- All raw flow cytometry FCS files, single-cell analyses (these end in '...single-cell.csv'), and related files
+- All files that can be generated from existing files (e.g. images, CSVs generated through merging or concatenating, etc. - see Jupyter Notebooks)
+- All RNA-seq DEseq2 files (listed as 'Supplementary Files' for GEO Series GSE224325)
