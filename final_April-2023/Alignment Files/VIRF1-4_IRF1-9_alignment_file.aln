@@ -1,0 +1,287 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|F5HF68|VIRF1      MDPGQRPNPFGAPGAIPKKPCLSQGSPGTSGSGAPCDEPSRSESPGEGPSGTGGSAAAGD	60
+sp|Q92985|IRF7       ------------------------------------------------------------	0
+sp|P10914|IRF1       ------------------------------------------------------------	0
+sp|P14316|IRF2       ------------------------------------------------------------	0
+sp|Q14653|IRF3       ------------------------------------------------------------	0
+sp|Q13568|IRF5       ------------------------------------------------------------	0
+sp|O14896|IRF6       ------------------------------------------------------------	0
+sp|Q15306|IRF4       ------------------------------------------------------------	0
+sp|Q02556|IRF8       ------------------------------------------------------------	0
+sp|Q00978|IRF9       ------------------------------------------------------------	0
+sp|Q2HR73|VIRF4      ------------------------------------------------------------	0
+sp|Q2HR71|VIRF2      ------------------------------------------------------------	0
+sp|F5HIC6|VIRF3      ------------------------------------------------------------	0
+                                                                                 
+
+sp|F5HF68|VIRF1      ITRQAVVAAITEWSRTRQLRISTGASEGKASIKDWIVCQVNSGKFPGVEWEDEERTRFRI	120
+sp|Q92985|IRF7       ------------------MALAPERAAPRVLFGEWLLGEISSGCYEGLQWLDEARTCFRV	42
+sp|P10914|IRF1       ------------------------MPITRMRMRPWLEMQINSNQIPGLIWINKEEMIFQI	36
+sp|P14316|IRF2       ------------------------MPVERMRMRPWLEEQINSNTIPGLKWLNKEKKIFQI	36
+sp|Q14653|IRF3       ------------------------MGTPKPRILPWLVSQLDLGQLEGVAWVNKSRTRFRI	36
+sp|Q13568|IRF5       ---------------MNQSIPVAPTPPRRVRLKPWLVAQVNSCQYPGLQWVNGEKKLFCI	45
+sp|O14896|IRF6       ----------------------MALHPRRVRLKPWLVAQVDSGLYPGLIWLHRDSKRFQI	38
+sp|Q15306|IRF4       --------MNLEGGGRGGEFGMSAVSCGNGKLRQWLIDQIDSGKYPGLVWENEEKSIFRI	52
+sp|Q02556|IRF8       ----------------------MCDRNGGRRLRQWLIEQIDSSMYPGLIWENEEKSMFRI	38
+sp|Q00978|IRF9       --------------------MASGRARCTRKLRNWVVEQVESGQFPGVCWDDTAKTMFRI	40
+sp|Q2HR73|VIRF4      ----------------------MPKAGGSEWATLWIIDALENNKFPYFSWFDRNNLLFAA	38
+sp|Q2HR71|VIRF2      ----------------------MPRYTESEWLTDFIIDALDSGRFWGVGWLDEQKRIFTV	38
+sp|F5HIC6|VIRF3      -----------------------MAGRRLTWISEFIVGALDSDKYPLVKWLDRSTGTFLA	37
+                                                       ::   :.      . * .     *  
+
+sp|F5HF68|VIRF1      PVTPLADPCFEWRRDGELGVVYIRERGNMPVDAS----------FKGTRGRRRMLAALRR	170
+sp|Q92985|IRF7       PWKHFARKDLSE-ADARIFKAWAVARGRWPPSSRGGGPPPEAETAERAGWKTNFRCALRS	101
+sp|P10914|IRF1       PWKHAAKHGWDINKDACLFRSWAIHTGRYKAGEK---------EPDPKTWKANFRCAMNS	87
+sp|P14316|IRF2       PWMHAARHGWDVEKDAPLFRNWAIHTGKHQPGVD---------KPDPKTWKANFRCAMNS	87
+sp|Q14653|IRF3       PWKHGLRQDAQQ-EDFGIFQAWAEATGAYVPGRD---------KPDLPTWKRNFRSALNR	86
+sp|Q13568|IRF5       PWRHATRHGPSQDGDNTIFKAWAKETGKYTEGVD---------EADPAKWKANLRCALNK	96
+sp|O14896|IRF6       PWKHATRHSPQQEEENTIFKAWAVETGKYQEGVD---------DPDPAKWKAQLRCALNK	89
+sp|Q15306|IRF4       PWKHAGKQDYNREEDAALFKAWALFKGKFREGID---------KPDPPTWKTRLRCALNK	103
+sp|Q02556|IRF8       PWKHAGKQDYNQEVDASIFKAWAVFKGKFKEG-D---------KAEPATWKTRLRCALNK	88
+sp|Q00978|IRF9       PWKHAGKQDFREDQDAAFFKAWAIFKGKYKEG-D---------TGGPAVWKTRLRCALNK	90
+sp|Q2HR73|VIRF4      PAPLPAGSDIPP-GWYSVYHAFDEECDRV------YGPSP----VVGQTVYGRFGRLLRG	87
+sp|Q2HR71|VIRF2      PGRN-RRERMPE-GFDDFYEAFLEERRRH------GLPEI----PETETGLGCFGRLLRT	86
+sp|F5HIC6|VIRF3      PAAR--NDVIPL-DSLQFFIDFKRECLSK------GLHPR----DLLGSPITAFGKICTT	84
+                     *                .   :                               :      
+
+sp|F5HF68|VIRF1      TRGLQEIGKGISQD--GH-HFLVFRVRKPEEEQC--------------------------	201
+sp|Q92985|IRF7       TRRFVMLRDNSG-D--PADPHKVYALSRELCWREGPGTD---------------------	137
+sp|P10914|IRF1       LPDIEEVKDQSRNK--GSSAVRVYRMLPPLTKNQRKERK---------------------	124
+sp|P14316|IRF2       LPDIEEVKDKSIKK--GNNAFRVYRMLPLSERPSKKGKK---------------------	124
+sp|Q14653|IRF3       KEGLRLAEDRSK-D--PHDPHKIYEFVNSGVGDFSQPDT---------------------	122
+sp|Q13568|IRF5       SRDFRLIYDGPRDM--PPQPYKIYEVCSNGPAPTDSQ-----------------------	131
+sp|O14896|IRF6       SREFNLMYDGTKEV--PMNPVKIYQVCDIPQPQGSII-----------------------	124
+sp|Q15306|IRF4       SNDFEELVERSQLD--ISDPYKVYRIVPEGAKKGAKQLT---------------------	140
+sp|Q02556|IRF8       SPDFEEVTDRSQLD--ISEPYKVYRIVPEEEQKCKLGVA---------------------	125
+sp|Q00978|IRF9       SSEFKEVPERGRMD--VAEPYKVYQLLPPGIVSGQPGTQ---------------------	127
+sp|Q2HR73|VIRF4      TRRAVVRNDLRYSDTF-GGSYVVWQLVRTPFKNCTYCYGAAYGPEKLQRFIQCLLSPPMQ	146
+sp|Q2HR71|VIRF2      ANRARQE--RPFTIYKGKMKLNRWIMTPRPYKGCEGCLVYLTQEPAMKNMLKALFGIYPH	144
+sp|F5HIC6|VIRF3      SRRLRRLPGEEYEVV-QGINCRRWRLLCAEVKECWWCVHARTHLHSGSSLWEILYQHSVR	143
+                                            : .                                  
+
+sp|F5HF68|VIRF1      ------------------------------------------------------------	201
+sp|Q92985|IRF7       -----------------QTE-A-EAPAAVPPPQ---GGPPGPFLAHTHAGLQAPGPLPAP	175
+sp|P10914|IRF1       ----------------------------SKSSR---DAKSKAKRKSC--GDSSPDTFSDG	151
+sp|P14316|IRF2       ----------------------------PKTEK---EDKVKHIKQEP--VES-SLGLSNG	150
+sp|Q14653|IRF3       ----------------------------SPDTN---GGGST--SD---------------	134
+sp|Q13568|IRF5       ------------------------------PP-----------EDYS-----------FG	139
+sp|O14896|IRF6       ------------------------------NPG---STGSAPWDEKD-----------ND	140
+sp|Q15306|IRF4       ----------------------------LEDPQ---MSMSHPYTMTT-----------PY	158
+sp|Q02556|IRF8       ----------------------------TAGCV---NEVT---EMEC-------------	138
+sp|Q00978|IRF9       ----------------------------KVPSK---RQHSS---VSS-----------ER	142
+sp|Q2HR73|VIRF4      TTATRRSDTREQ----SYEE---AGAAAPAPPKAPSGLRGRPRKSNR------------Y	187
+sp|Q2HR71|VIRF2      DDKHREKALRRSLRKKAQREAARKQAAAVATPTTSSAAEVSSRSQSE------------D	192
+sp|F5HIC6|VIRF3      LEKHRRRPR--PFVGENSDSSEEDHPAFCDVPVTQTGAE------SE------------D	183
+                                                                                 
+
+sp|F5HF68|VIRF1      ----------------------------VECGVVAGAVHDFNNM----------------	217
+sp|Q92985|IRF7       AGDKGDLLLQAVQQSCLADHLLTA---------------SWGAD----------------	204
+sp|P10914|IRF1       LSS-STLPD-DHSSYTVPGYM--------------------QDL----------------	173
+sp|P14316|IRF2       VSD-------LSPEYAVLTSTIKNEVDSTVNIIVVGQSHLDSNI----------------	187
+sp|Q14653|IRF3       -TQ-EDILDELLGNMVLAPLPD-----------------PGPPS----------------	159
+sp|Q13568|IRF5       AGE-EEEEEEELQRMLPS-LSLTEDV-------------KWPPT----------------	168
+sp|O14896|IRF6       -VD-EEDEEDELDQSQHH-VPIQDTF-------------PFLNI----------------	168
+sp|Q15306|IRF4       P----SLPAQQVHNYMMPPLD-R----------------SWRDY----------------	181
+sp|Q02556|IRF8       -------GRSEIDELIKEPSV-D----------------DYMGM----------------	158
+sp|Q00978|IRF9       -----KEEEDAMQNCTLSPSVLQDSLNNEEEGASGGAVHSDIGS----------------	181
+sp|Q2HR73|VIRF4      -YNVGDITTEQ------------KAACSVWIPVNEGASTSGMGSSGTRQVTQASSFTWRV	234
+sp|Q2HR71|VIRF2      -TESS------------------DSENELWVG--------------------AQGFV---	210
+sp|F5HIC6|VIRF3      ---SG------------------DEGPSTRHS--------------------ASGVQ---	199
+                                                                                 
+
+sp|F5HF68|VIRF1      --------------ARLLQEGFFSPGQC--------------------------------	231
+sp|Q92985|IRF7       -------------------P---VPTKA--------------------------------	210
+sp|P10914|IRF1       --------------EVEQ-ALTPALSPC--------------------------------	186
+sp|P14316|IRF2       --------------ENQE-IVTNPPDIC--------------------------------	200
+sp|Q14653|IRF3       --------------LA------VAPEPCPQPL--------------------------RS	173
+sp|Q13568|IRF5       --------------LQ-P-PTLRPPTLQPPTL--------------------------QP	186
+sp|O14896|IRF6       ------------------------------------------------------------	168
+sp|Q15306|IRF4       --------------VPDQ-PHPEIPYQC--------------------------------	194
+sp|Q02556|IRF8       --------------IKRS-PS--PPEAC--------------------------------	169
+sp|Q00978|IRF9       --------------SSSS-SSPEPQEVT--------------------------------	194
+sp|Q2HR73|VIRF4      PGDPPAPSTLTGPSDPHS-SGAGLPGTAPPKPQHETRLAGTVSGVSGVAQTPGDTGQLAP	293
+sp|Q2HR71|VIRF2      -GRDMHSLF---FEEPEP-SGFGSSGQSSSLLAP--------------DSPRPSTSQVQG	251
+sp|F5HIC6|VIRF3      ------PVD---DANADS-PGSGDEG----------------------------------	215
+                                                                                 
+
+sp|F5HF68|VIRF1      ---------------------------LPGE-----------------------------	235
+sp|Q92985|IRF7       --------PGEGQEGLPLTGACAGGPGLPAG-----------------------------	233
+sp|P10914|IRF1       ----------------------AVSSTLPDW-----------------------------	195
+sp|P14316|IRF2       ----------------------QVVE----V-----------------------------	205
+sp|Q14653|IRF3       PSLDNP------------------------T-----------------------------	180
+sp|Q13568|IRF5       PVVLGPPAPDPSPLAPPPGNPAGFRELLSEV-----------------------------	217
+sp|O14896|IRF6       ---------NGSPMAPASVGNCSVGNCSPEA-----------------------------	190
+sp|Q15306|IRF4       PMTFGPR-------GHHWQGPACENGCQVTG-----------------------------	218
+sp|Q02556|IRF8       RSQLLP------------------------------------------------------	175
+sp|Q00978|IRF9       D-----------------------------------------------------------	195
+sp|Q2HR73|VIRF4      PMRDGSRLP----STSPWIPACFPWGDLPVTGWWPQGASGLPEKVHPPTTGQFDPLSPRW	349
+sp|Q2HR71|VIRF2      PLH-----------VHTPTDLCLPTGGLPSPVIFPHETQGLLAPPAGQSQTPFSPEGPVP	300
+sp|F5HIC6|VIRF3      P-------------------------------------------STRHSDSQPPPADETT	232
+                                                                                 
+
+sp|F5HF68|VIRF1      ------------------------------------------------------------	235
+sp|Q92985|IRF7       ------------------------------------------------------------	233
+sp|P10914|IRF1       ------------------------------------------------------------	195
+sp|P14316|IRF2       ------------------------------------------------------------	205
+sp|Q14653|IRF3       ------------------------------------------------------------	180
+sp|Q13568|IRF5       ------------------------------------------------------------	217
+sp|O14896|IRF6       ------------------------------------------------------------	190
+sp|Q15306|IRF4       ------------------------------------------------------------	218
+sp|Q02556|IRF8       ------------------------------------------------------------	175
+sp|Q00978|IRF9       ------------------------------------------------------------	195
+sp|Q2HR73|VIRF4      TYTGIPSSQLNPAAPSWIPPHAQAGTFVGEFSQGAPLAPQGLLPQSGQCASAWLPRRETG	409
+sp|Q2HR71|VIRF2      -------------------SH------VSGLDDCLP-----MVDHIEGCLLDLLSDVGQE	330
+sp|F5HIC6|VIRF3      -------------------VH------TDNVEDDLT-----LLDKESACALM--YHVGQE	260
+                                                                                 
+
+sp|F5HF68|VIRF1      -------------------------------------------------IV---------	237
+sp|Q92985|IRF7       --------------------------------------------ELYGWAV---------	240
+sp|P10914|IRF1       ------------------------------------------------------------	195
+sp|P14316|IRF2       ------------------------------------------------------------	205
+sp|Q14653|IRF3       ------------------------------------------------------------	180
+sp|Q13568|IRF5       ------------------------------------------------------------	217
+sp|O14896|IRF6       ------------------------------------------------------------	190
+sp|Q15306|IRF4       ------------------------------------------------------------	218
+sp|Q02556|IRF8       ------------------------------------------------------------	175
+sp|Q00978|IRF9       ------------------------------------------------------------	195
+sp|Q2HR73|VIRF4      ----AEGACGASTEGRAPQGAASERVYPFEPQPPSAPAPGYAKPSCYNWSPLAEPPATRP	465
+sp|Q2HR71|VIRF2      LPDL-------------------------G---------DLGELLCET------------	344
+sp|F5HIC6|VIRF3      MDMLMRAMCD-------------EDLFDLL---------GIPEDVIAT------------	286
+                                                                                 
+
+sp|F5HF68|VIRF1      ------------------------------------------------------------	237
+sp|Q92985|IRF7       ------------------------------------------------------------	240
+sp|P10914|IRF1       ------------------------------------------------------------	195
+sp|P14316|IRF2       ------------------------------------------------------------	205
+sp|Q14653|IRF3       ------------------------------------------------------------	180
+sp|Q13568|IRF5       ------------------------------------------------------------	217
+sp|O14896|IRF6       ------------------------------------------------------------	190
+sp|Q15306|IRF4       ------------------------------------------------------------	218
+sp|Q02556|IRF8       ------------------------------------------------------------	175
+sp|Q00978|IRF9       ------------------------------------------------------------	195
+sp|Q2HR73|VIRF4      IRAPVWHPPVGHAVVPEVRTPLWIPWSSGGAPNQGLSHTQGGASAT-PSAGAPPTPEVAE	524
+sp|Q2HR71|VIRF2      --------------------------AS----PQGPMQSEGGEEGSTESVSVLPATHPLE	374
+sp|F5HIC6|VIRF3      --------------------------SQ----PGGDTDASG----------VVT-EGSI-	304
+                                                                                 
+
+sp|F5HF68|VIRF1      ----------------------------------------------------TPVPSCT-	244
+sp|Q92985|IRF7       ----------------------------------------------------ETTPSPGP	248
+sp|P10914|IRF1       -----------------------------------------------------HI-----	197
+sp|P14316|IRF2       -----------------------------------------------------TT-----	207
+sp|Q14653|IRF3       -----------------------------------------------------PFPNLG-	186
+sp|Q13568|IRF5       -----------------------------------------------------LEP--GP	222
+sp|O14896|IRF6       -----------------------------------------------------VWPKTEP	197
+sp|Q15306|IRF4       -----------------------------------------------------TFYACAP	225
+sp|Q02556|IRF8       -----------------------------------------------------DWWAQQP	182
+sp|Q00978|IRF9       ------------------------------------------------------------	195
+sp|Q2HR73|VIRF4      RQEPS----SSG--IPYVCQGDNMATGYRRVTTSSGALEVEIIDLTGDSDTPSTTVASTP	578
+sp|Q2HR71|VIRF2      SSAPGASVMGSGQELPDLGDLSEL---LCETASPQGPMQSEGGE-EGSTESVSVLPATHP	430
+sp|F5HIC6|VIRF3      ----AASAVGAGVEDVYLA----------------GALEA--------------------	324
+                                                                                 
+
+sp|F5HF68|VIRF1      ------------------------------------------------------------	244
+sp|Q92985|IRF7       QPAALTT----------------------------G---------EAAAPE---------	262
+sp|P10914|IRF1       -----------------------------------------------PVEV---------	201
+sp|P14316|IRF2       -----------------------------------------------ESDE---------	211
+sp|Q14653|IRF3       ------------------------------------------------------------	186
+sp|Q13568|IRF5       LPASL-----------------------------------------PPAGE---------	232
+sp|O14896|IRF6       LEMEV-----------------------------------------PQAPI---------	207
+sp|Q15306|IRF4       PESQA-----------------------------------------PGVPT---------	235
+sp|Q02556|IRF8       ----S-----------------------------------------TGVPL---------	188
+sp|Q00978|IRF9       ----T-----------------------------------------TEAPF---------	201
+sp|Q2HR73|VIRF4      LPVSGPRVFQPTVLYSAPEPAVNPEVSHLPTELERRECVCPGSGERPRVPLVSTYAGDRY	638
+sp|Q2HR71|VIRF2      LESSAPGASVMGSSFQA-----------SDNVDDFIDCIPPLCRDDRDVEDQ--------	471
+sp|F5HIC6|VIRF3      --QNVAGEYVL----EI-----------SDEEVDDGAGLPPASRR---------------	352
+                                                                                 
+
+sp|F5HF68|VIRF1      ------------------------------------------------------------	244
+sp|Q92985|IRF7       -----------------------------------------------------------S	263
+sp|P10914|IRF1       -----------------------------------------------------------V	202
+sp|P14316|IRF2       -----------------------------------------------------------Q	212
+sp|Q14653|IRF3       ------------------------------------------------------------	186
+sp|Q13568|IRF5       ------------------------------------------------------------	232
+sp|O14896|IRF6       -----------------------------------------------------------Q	208
+sp|Q15306|IRF4       -----------------------------------------------------------E	236
+sp|Q02556|IRF8       -----------------------------------------------------------V	189
+sp|Q00978|IRF9       -----------------------------------------------------------Q	202
+sp|Q2HR73|VIRF4      AVGGYGPEQSLVPPPLGLPLTLSNLQGEDICTWEEGLGNILSELQEEPSSSTRQATDRRR	698
+sp|Q2HR71|VIRF2      ------------------------EKADQTFYWYGSDM---------------------R	486
+sp|F5HIC6|VIRF3      ------------------------RPVVGEFLWDDGPR---------------------R	367
+                                                                                 
+
+sp|F5HF68|VIRF1      ----TAEG-------------------QEAVIDWGRLFIRMY--YNGEQVHE-LLTTSQS	278
+sp|Q92985|IRF7       PHQAEPYLSPSPSA-----------CTAVQEPSPGALDVTIM--YKGRTVLQK--VVGHP	308
+sp|P10914|IRF1       PDST---------------------------SDLYNFQVSPMPSTSEATTDEDEEGKLPE	235
+sp|P14316|IRF2       PVSM---------------------------SELYPLQISPVSSYAESETT----DSVPS	241
+sp|Q14653|IRF3       PSENPLKR-------------------LLVPGEEWEFEVTAF--YRGRQVFQ-QTISCPE	224
+sp|Q13568|IRF5       QLLPDLLI-------------------SPHMLPLTDLEIKFQ--YRGRPP-RALTISNPH	270
+sp|O14896|IRF6       PFYSSPEL-------------------WISSLPMTDLDIKFQ--YRGKEYGQTMTVSNPQ	247
+sp|Q15306|IRF4       PSIRSAEA---------------------LAFSDCRLHICLY--YREILVKE-LTTSSPE	272
+sp|Q02556|IRF8       TGYTTYDA---------------------HHSAFSQMVISFY--YGGKLVGQ-ATTTCPE	225
+sp|Q00978|IRF9       GDQRSLEF-------------------LLPPEPDYSLLLTFI--YNGRVVGE-AQVQS-L	239
+sp|Q2HR73|VIRF4      PRSRSPHGRRTPVSHSGPEKPPSKMFFDPPDSQRVSFVVEIF--VYGNLRGT-LRREGDA	755
+sp|Q2HR71|VIRF2      P--KVLTATQSVAAY-LSKKQAIYKVGDK----LVPLVVEVY--YFGEKVKT-H--FDLT	534
+sp|F5HIC6|VIRF3      H--ERPTTRRI--RH-RKLRSAYYRVARPPVMITDRLGVEVF--YFGRPAMS-L--EVER	417
+                                                         : :                     
+
+sp|F5HF68|VIRF1      GCRISSALRRDPAV--HYCA-VGSPGQVWLPNVP-NLACEIAKRELCDTLDACAKGILLT	334
+sp|Q92985|IRF7       SCTFLYGPPDPA------VR-ATDPQQVAFPSPA-ELPDQKQLRYTEELLRHVAPGLHLE	360
+sp|P10914|IRF1       DIMKLLEQS---------------EWQ---------------------PTNVDGKGYLLN	259
+sp|P14316|IRF2       DEESAEGRP---------------HWR---------------------KRNIEGKQYLSN	265
+sp|Q14653|IRF3       GLRLVGSEVGDRTL---------PGWPVTLPDPGMSLTDRGVMSYVRHVLSCLGGGLALW	275
+sp|Q13568|IRF5       GCRLFYSQLEATQEQVELFG-PISLEQVRFPSPE-DIPSDKQRFYTNQLLDVLDRGLILQ	328
+sp|O14896|IRF6       GCRLFYGDLGPMPDQEELFG-PVSLEQVKFPGPE-HITNEKQKLFTSKLLDVMDRGLILE	305
+sp|Q15306|IRF4       GCRISHGH---------TYD-ASNLDQVLFPYPE----DNGQRKNIEKLLSHLERGVVLW	318
+sp|Q02556|IRF8       GCRLSLSQPGLP--GTKLYG-PEGLELVRFPPAD-AIPSERQRQVTRKLFGHLERGVLLH	281
+sp|Q00978|IRF9       DCRLVAEPS---------GS-ESSMEQVLFPKPG-P------LEPTQRLLSQLERGILVA	282
+sp|Q2HR73|VIRF4      GEAMLCSWPVGDTL-GHLCQSFVPE---LLRIPRLTVPSPEQMEILNRVFEGLGHGFPIF	811
+sp|Q2HR71|VIRF2      GGIVICSQVPEASP-EHICQTVP-PYKCLLPRTAHC--SVDANRTLEQTLDRFSMGVVAI	590
+sp|F5HIC6|VIRF3      KVFILCSQNPLADI-SHSCLHSRKGLRVLLPKPDDNNTGPGDVNLLAAVLRSFASGLVIV	476
+                                                                                 
+
+sp|F5HF68|VIRF1      SSCNGIFCVCYHNGPVHFIGNTVPPD----SGPLLLPQGKPTRIFNPNTFLVGLANSPLP	390
+sp|Q92985|IRF7       LRGPQLWARRMGKCKVYWEVGGPPGSASPSTPACLLPRNCDTPIFDFRVFFQELVEFRAR	420
+sp|P10914|IRF1       EPGVQPTSVY---------GD--------FSCKEEPEIDSPGGDIGL-------------	289
+sp|P14316|IRF2       MGTRGSYLLPGM-------AS--------FVTSNKPDLQV--------------------	290
+sp|Q14653|IRF3       RAGQWLWAQRLGHCHTYWAVSEELLPNSGHGPDGEVPKDKEGGVFDLGPFIVDLITFTEG	335
+sp|Q13568|IRF5       LQGQDLYAIRLCQCKVFWSGPCASAH---DSCPNPIQREVKTKLFSLEHFLNELILFQKG	385
+sp|O14896|IRF6       VSGHAIYAIRLCQCKVYWSGPCAPSL----VAPNLIERQKKVKLFCLETFLSDLIAHQKG	361
+sp|Q15306|IRF4       MAPDGLYAKRLCQSRIYWDGPLALCN----DRPNKLERDQTCKLFDTQQFLSELQAFAHH	374
+sp|Q02556|IRF8       SSRQGVFVKRLCQGRVFCSGNAVVCK----GRPNKLERDEVVQVFDTSQFFRELQQFYNS	337
+sp|Q00978|IRF9       SNPRGLFVQRLCPIPISWNAPQAPPG----PGPHLLPSNECVELFRTAYFCRDLVRYFQG	338
+sp|Q2HR73|VIRF4      CSMSGIYSRNATQVEGWWFGNPNSRYE--RILRSFSPRVP-QQLFNTARYLATTAAIPQT	868
+sp|Q2HR71|VIRF2      GTNMGIFLKGLLEYPAYFVGNASRRRI--GKCRPLSHRHEIQQAFDVE-RHNRE------	641
+sp|F5HIC6|VIRF3      SLRSGIYVKNLCKSTVLYHGNNPPKKF--GVICGLSSRAVLDV-FNVAQYRIQG------	527
+                                                                                 
+
+sp|F5HF68|VIRF1      A-----PSHVTCPLVKLWLGKP-----VAVGKLEPHAPSP------RDFAARCSNFSDAC	434
+sp|Q92985|IRF7       QRRGSPRYTIYLGFGQDLSAGRPKEKSLVLVKLEPWLCRVHLEGTQREGVS---SLDSSS	477
+sp|P10914|IRF1       --SLQRVFTDLKNMDATWLDSLLTPVRLPSIQAIPCAP----------------------	325
+sp|P14316|IRF2       --TIKEES-NPVPYNSSWP----------PFQDLPLSSSMTPASSSS-------------	324
+sp|Q14653|IRF3       S-GRSPRYALWFCVGESWPQDQPWTKRLVMVKVVPTCLRALVEMARVGGAS----SLENT	390
+sp|Q13568|IRF5       QTNTPPPFEIFFCFGEEWPDRKPREKKLITVQVVPVAARLLLEMFSGELSW-----SADS	440
+sp|O14896|IRF6       QIEKQPPFEIYLCFGEEWPDGKPLERKLILVQVIPVVARMIYEMFSGDFTR---SFDSGS	418
+sp|Q15306|IRF4       G-RSLPRFQVTLCFGEEFPDPQRQR-KLITAHVEPLLARQLYYFAQQNSG---HFLRGYD	429
+sp|Q02556|IRF8       Q-GRLPDGRVVLCFGEEFPDMAPLRSKLILVQIEQLYVRQLAEEAGKSCGA-GSVMQA--	393
+sp|Q00978|IRF9       L-GPPPKFQVTLNFWEESHGSSHTPQNLITVKMEQAFARYLLEQTPEQQAA-ILSLV---	393
+sp|Q2HR73|VIRF4      PLSVNPV-----TCGTVFFGASPAS--TENFQNVPLTVKIFIGSIW--------------	907
+sp|Q2HR71|VIRF2      ---PEGS-----RYASLFLGRRPSP--EYDWDHYPVILHIYLAPFY--------------	677
+sp|F5HIC6|VIRF3      ---HEHI-----KKTTVFIGGDPTS--AEQFDMVPLVIKLRLRSVT--------------	563
+                                                    .                            
+
+sp|F5HF68|VIRF1      VVLEIM-PKPLWDAMQ------------------------------------------	449
+sp|Q92985|IRF7       LSLCLSSANSLYDDIECF---LME-----LEQPA------------------------	503
+sp|P10914|IRF1       ----------------------------------------------------------	325
+sp|P14316|IRF2       ------RPDRETRASV-IKKTSDITQA--RVKSC------------------------	349
+sp|Q14653|IRF3       VDLHISNSHPLSLTSDQYKAYLQDLV---------EGMDFQGPGES------------	427
+sp|Q13568|IRF5       IRLQISNPDLKDRMVEQFKELHHIWQSQQRLQPVAQAPPGAGLGVGQGPWPMHPAGMQ	498
+sp|O14896|IRF6       VRLQISTPDIKDNIVAQLKQLYRILQTQESWQPMQPTPSMQ-LPPALPP-----Q---	467
+sp|Q15306|IRF4       LPEHISNPEDYHRSIR-------HSSIQE-----------------------------	451
+sp|Q02556|IRF8       -PEE-PPPDQVFRMFPDICASHQRSFFRENQQITV-----------------------	426
+sp|Q00978|IRF9       ----------------------------------------------------------	393
+sp|Q2HR73|VIRF4      -----------DSLH-------------------------------------------	911
+sp|Q2HR71|VIRF2      -----------HRD--------------------------------------------	680
+sp|F5HIC6|VIRF3      -----------CDD--------------------------------------------	566
+                                                                               
